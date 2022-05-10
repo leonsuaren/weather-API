@@ -6,4 +6,9 @@
   width: 400px;
   height: 400px;
   background-color: #cff4fc;
+  padding: 20px;
+  display: grid;
+  grid-template-rows: 20% 20% 60%;
+  align-items: center;
+  justify-items: center;
 }
